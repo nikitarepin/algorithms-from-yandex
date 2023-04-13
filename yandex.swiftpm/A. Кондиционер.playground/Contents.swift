@@ -1,9 +1,5 @@
-//let str = "Oh my god"
-//print(str.split(separator: " "))
-//let temp = (readLine()?.split(separator: " "))!
-//let mode = readLine()
-let temp = "10 10".split(separator: " ")
-let mode = "freeze"
+let temp = (readLine()?.split(separator: " "))!
+let mode = readLine()
 let nowTemp = Int(temp[0])
 let futTemp = Int(temp[1])
 
