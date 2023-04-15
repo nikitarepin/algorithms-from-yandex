@@ -88,6 +88,27 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>D. Уравнение с корнем (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>D. Уравнение с корнем (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>D. Уравнение с корнем (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>yandex.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
